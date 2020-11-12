@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".WorkActivity">
 <TextView
+    android:id="@+id/tv_fb"
     android:text="fbrx"
     android:textSize="20sp"
     android:textColor="@color/colorAccent"
